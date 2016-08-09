@@ -12,6 +12,6 @@ var Grid = {
                 }
             }
         }
-        img.src="assets/images/FruitCell.png";
+        img.src="https://jennylin.github.io/robot-fruit-hunt/assets/images/FruitCell.png";
     }
 }
